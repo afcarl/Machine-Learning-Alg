@@ -1,2 +1,4 @@
-# Machine-Learning-Alg
-foundation alg in machine learning. theories and codes.
+Machine-Learning-Alg
+============================
+The fundamental algorithms in Machine Learning. 
+Theories and Codes.
